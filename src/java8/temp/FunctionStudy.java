@@ -1,4 +1,4 @@
-package java8;
+package java8.temp;
 public class FunctionStudy {
 	public static void main(String[] args) {
 		Vehicle1 v = new Car();

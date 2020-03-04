@@ -1,4 +1,4 @@
-package java8;
+package java8.temp;
 
 public class LamdaStudy {
 		public static void main(String[] args) {

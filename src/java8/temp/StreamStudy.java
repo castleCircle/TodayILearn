@@ -1,4 +1,4 @@
-package java8;
+package java8.temp;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;
