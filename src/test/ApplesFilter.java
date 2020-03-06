@@ -13,17 +13,8 @@ public class ApplesFilter {
 				new Apple(120, "red")
 				);
 		
-		List<Apple> greenApples = filterApples(frui)
 		
 		
-	}
-	
-	
-	public static List<Apple> filterApples(List<Apple> fruit,Predicate<Apple> p){
-		List<Apple> list = new ArrayList<>();
-		for(Apple apple : fruit) {
-			
-		}
 	}
 	
 	
